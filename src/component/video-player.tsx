@@ -630,8 +630,8 @@ const VideoPlayer = ({
             <div
               ref={modalMountRef}
               className={[
-                'w-full max-w-6xl',
-                'h-[min(80vh,720px)]',
+                'w-full max-w-8xl',
+                'h-[min(95vh,720px)]',
                 'min-h-0',
               ].join(' ')}
             />
